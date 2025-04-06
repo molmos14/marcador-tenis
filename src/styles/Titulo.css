@@ -1,0 +1,8 @@
+/* clases para los títulos, solo cambia el tamaño de letra */
+
+.titulo-tenis {
+    font-size: 2rem;
+    text-align: center; /* Centers the text horizontally */
+    display: grid;
+    place-items: center; /* Centers content both horizontally and vertically */
+}
